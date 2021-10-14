@@ -1,3 +1,15 @@
+#Frontend
+React JS
+
+#Backend
+Express JS, MongoDB
+
+#Flow
+- Main page is the persons page where you can view all the person that has been created.
+- On the main page, there are 2 action button - update and delete. Update will update the record of the selected person while the delete removes the record of the person from the database.
+- Another button on the main page are the "add person" and "create family". Add person basically creates a new person while create family you will be redirected to another page.
+- On the create family page, you will create a parent and then create their offspring. Adding a child automatically gets the surname of the father and the mother.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
