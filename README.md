@@ -1,12 +1,12 @@
-#Frontend
+# Frontend
 
 React JS
 
-#Backend
+# Backend
 
 Express JS, MongoDB
 
-#Flow
+# Flow
 
 - Main page is the persons page where you can view all the person that has been created.
 - On the main page, there are 2 action button - update and delete. Update will update the record of the selected person while the delete removes the record of the person from the database.
